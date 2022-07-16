@@ -1,0 +1,9 @@
+.formSection{
+    border: 2px dotted red;
+    border-radius: 20px;
+    padding: 30px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+ text-align: center;
+}
